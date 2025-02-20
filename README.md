@@ -3,11 +3,14 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Pedro Coelho Teixeira de Andrade
+Matricula: 885669
 
 ## Tela de inspeção com navegador
+
+<img src="youtube.png" alt="">
 
 
 ## Tela de projeto no Replit
 
+<img src="ola mundo.png" alt="">
